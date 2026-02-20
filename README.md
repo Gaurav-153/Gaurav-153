@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Yeole</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
 - 📫 How to reach me **ggyeole96201@gmail.com**
 - PortFolio : https://gaurav-153.github.io/portfolio/
